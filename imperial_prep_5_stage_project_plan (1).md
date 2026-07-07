@@ -18,8 +18,8 @@ Brutally honest: this stage is dull and that's fine. You need exactly four comma
   git config --global user.name "Your Name"
   git config --global user.email "you@email.com"
   ```
-- [] Create one repo on GitHub called `learning-log` or similar
-- [ ] Clone it locally, add a file, and run: `git add .` → `git commit -m "message"` → `git push`
+- [x] Create one repo on GitHub called `learning-log` or similar
+- [x] Clone it locally, add a file, and run: `git add .` → `git commit -m "message"` → `git push`
 - [ ] Do this once a day minimum once you start Stage 1 — small, frequent commits, not one giant commit at the end
 
 ### Options for *how* you learn the mechanics
