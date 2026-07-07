@@ -11,14 +11,14 @@
 Brutally honest: this stage is dull and that's fine. You need exactly four commands and one habit (commit often, with a real message). Do not read a full Git course — that's a trap that eats 10 hours for something you need 2 hours of.
 
 ### What to actually do
-- [ ] Create a GitHub account (if you don't have one)
-- [ ] Install Git for Windows: https://git-scm.com/download/win
-- [ ] Set your identity once in a terminal:
+- [x] Create a GitHub account (if you don't have one)
+- [x] Install Git for Windows: https://git-scm.com/download/win
+- [x] Set your identity once in a terminal:
   ```
   git config --global user.name "Your Name"
   git config --global user.email "you@email.com"
   ```
-- [ ] Create one repo on GitHub called `learning-log` or similar
+- [] Create one repo on GitHub called `learning-log` or similar
 - [ ] Clone it locally, add a file, and run: `git add .` → `git commit -m "message"` → `git push`
 - [ ] Do this once a day minimum once you start Stage 1 — small, frequent commits, not one giant commit at the end
 
